@@ -14,6 +14,11 @@ Practical [Agent Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-
 | [`pr-review`](skills/pr-review/SKILL.md) | Prioritised code review of a diff or PR | — |
 | [`web-research-brief`](skills/web-research-brief/SKILL.md) | Sourced research briefs, with prompt-injection hygiene | [mcp-web-reader](https://github.com/aranshayan/mcp-web-reader) |
 | [`document-summarizer`](skills/document-summarizer/SKILL.md) | Faithful, referenced summaries of PDFs, Word and spreadsheets | [mcp-docs-reader](https://github.com/aranshayan/mcp-docs-reader) |
+| [`session-handoff`](skills/session-handoff/SKILL.md) | A one-page handoff so a fresh session or agent can continue without re-explaining | — |
+| [`claude-md-builder`](skills/claude-md-builder/SKILL.md) | Create or prune a lean `CLAUDE.md` from the real repository | — |
+| [`clarify-first`](skills/clarify-first/SKILL.md) | A few sharp questions before large or ambiguous work ("grill me") | — |
+| [`safe-ops`](skills/safe-ops/SKILL.md) | Target, blast radius, rollback and approval before destructive actions | [mcp-database](https://github.com/aranshayan/mcp-database) |
+| [`verify-before-done`](skills/verify-before-done/SKILL.md) | Evidence before "done": run the checks, exercise the change, report honestly | — |
 
 ## Install
 
